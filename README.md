@@ -1,4 +1,4 @@
-# 🎯 Research Ranking System
+# 🎯 Research Gamification
 
 一个游戏化的科研任务管理系统，将学术工作转化为类似游戏排位赛的激励机制。通过完成任务、获得积分、解锁成就，让科研工作更有趣！
 
@@ -201,10 +201,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by competitive gaming ranking systems
 - Built with modern React and TypeScript best practices
 - UI design inspired by gaming dashboards
-
-## 📧 Contact
-
-Project Link: [https://github.com/qinghezeng/research-gamification](https://github.com/qinghezeng/research-gamification)
 
 ---
 
