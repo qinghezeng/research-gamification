@@ -1,17 +1,17 @@
 {
-  "name": "research-ranking-system",
+  "name": "research-gamification",
   "version": "1.0.0",
   "description": "A gamified research task management system that transforms academic work into a ranked gameplay experience",
-  "author": "Your Name <your.email@example.com>",
+  "author": "Qinghe Zeng <qinghezeng@example.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/research-ranking-system.git"
+    "url": "https://github.com/qinghezeng/research-gamification.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/research-ranking-system/issues"
+    "url": "https://github.com/qinghezeng/research-gamification/issues"
   },
-  "homepage": "https://github.com/yourusername/research-ranking-system#readme",
+  "homepage": "https://github.com/qinghezeng/research-gamification#readme",
   "keywords": [
     "research",
     "productivity",

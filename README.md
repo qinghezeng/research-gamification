@@ -63,10 +63,10 @@ Purchase power-ups with stars:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/research-ranking-system.git
+git clone https://github.com/qinghezeng/research-gamification.git
 
 # Navigate to project directory
-cd research-ranking-system
+cd research-gamification
 
 # Install dependencies
 npm install
@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/research-ranking-system](https://github.com/yourusername/research-ranking-system)
+Project Link: [https://github.com/qinghezeng/research-gamification](https://github.com/qinghezeng/research-gamification)
 
 ---
 

@@ -16,8 +16,8 @@ Thank you for your interest in contributing! This document provides guidelines f
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/yourusername/research-ranking-system.git
-   cd research-ranking-system
+   git clone https://github.com/qinghezeng/research-gamification.git
+   cd research-gamification
    ```
 
 2. **Install dependencies**
