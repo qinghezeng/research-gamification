@@ -87,6 +87,24 @@ npm run build
 npm run preview
 ```
 
+## 📷 Screenshots
+
+### Dashboard - Upper Section
+![Dashboard Upper](screenshots/dashboard.png)
+*Main interface with stats, ranking system, and quick task entry*
+
+### Dashboard - Lower Section
+![Dashboard Lower](screenshots/dashboard-2.png)
+*Buff shop, task history, and data visualization charts*
+
+### Task Management
+![Task Management](screenshots/task-management.png)
+*Create, edit, and organize your custom research tasks*
+
+### Achievement System
+![Achievements](screenshots/achievements.png)
+*Track your progress and unlock achievements across 7 categories*
+
 ## 🎯 How to Use
 
 ### 1. Quick Task Entry (快速录入)
@@ -144,7 +162,29 @@ research-app/
 └── tsconfig.json                     # TypeScript configuration
 ```
 
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Inspired by competitive gaming ranking systems
+- Built with modern React and TypeScript best practices
+- UI design inspired by gaming dashboards
+
 ## 🎨 Customization
+
+Want to customize the system for your needs? Here's how:
 
 ### Adding New Task Templates
 Edit the `defaultTaskTemplates` object in `research_ranking_system.tsx`:
@@ -181,26 +221,6 @@ Add to the `achievementsList` array:
   check: () => /* condition */
 }
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Inspired by competitive gaming ranking systems
-- Built with modern React and TypeScript best practices
-- UI design inspired by gaming dashboards
 
 ---
 
