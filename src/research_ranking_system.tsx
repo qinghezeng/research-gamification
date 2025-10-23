@@ -4,7 +4,7 @@
  * A gamified research task management system inspired by Honor of Kings.
  * Transform your research into an epic ranked battle!
  *
- * @author Qinghe Zeng <qinghezeng@example.com>
+ * @author Qinghe Zeng
  * @version 1.0.0
  * @license MIT
  * @repository https://github.com/qinghezeng/research-gamification
